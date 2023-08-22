@@ -1,4 +1,5 @@
 # ES6 for Humans
+## Learn JavaScript ES6
 
 <br>
 
